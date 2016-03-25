@@ -1,50 +1,100 @@
-['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-(6.58003120192, u'The Abs Diet by David Zinczenko')
-(5.9231935598, u"I did'nt diet to get in shape for Trinidad's Carnival.....")
-(5.04673654071, u'Sensible Diet & Exercise')
+['news', 'with', 'weather', 'than', 'storm', 'snow']
+(19.535046546339057, u'Storm shuts down Denver airport, could hit Midwest with more than a foot of snow - FOX NEWS WEATHER CENTER')
+(2.7251159287765532, u'FOX NEWS POLL  Cruz gains on Trump; Clinton up by double digits')
+(1.0939767541720464, u'Gal: Men obsessed with breasts')
 
-['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-(6.52183126318, u'food/exercise Monday 10/1')
-(5.94642162786, u'diet/exercise 10/4')
-(5.3332773133, u'food/exercise Friday 10/5')
+['from', 'likely', 'mozambique', 'says', 'highly', 'debris']
+(17.474749683281846, u"Debris found in Mozambique 'highly likely' from MH370, Australia says")
+(0.025840774789387622, u'Body recovered from Boston warehouse after ammonia leak')
+(0.02562287134848466, u'RAW VIDEO: Obama does the tango in Argentina - Obama, new Argentine leader work to break from past tensions')
 
-['food', 'calories', 'than', 'easy', 'high', 'come']
-(9.98464450123, u'High or low fat food? Easy trick for figuring it out')
-(3.41252863148, u'Oatmeal, cereal of choice.')
-(3.19119866786, u'Food and Workout Log 10.8.07')
+['recovered', 'body', 'leak', 'boston', 'warehouse', 'ammonia']
+(15.788395778977952, u'Body recovered from Boston warehouse after ammonia leak')
+(0.031547091906326798, u'Unhappy hour: Beer, chips spill on highway after crash - Doughnut stashed with Xanax delivered to New Jersey high school')
+(1.2360502460647261e-06, u"Hunker in their bunker: Maine couple selling preppers' paradise")
 
-['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-(7.46811621754, u'saturday')
-(5.62839188358, u'diet-exercise thursday')
-(5.29370213306, u'sleepy food/fitness thursday')
+['with', 'video', 'down', 'viking', 'train', 'taking']
+(16.150676194884781, u"Video shows 'Viking Guy' taking down drunk train passenger with chokehold")
+(1.7948588566670702, u'Gal: Men obsessed with breasts')
+(1.0140291975474625, u"Virginia students disciplined for 'blackface' video")
 
-['food', 'home', 'then', 'exercise', 'morning', 'went']
-(5.22083940456, u'Food & Exercise -- 10/5/2007')
-(5.16310413391, u'Food & Exercise -- 10/4/2007')
-(4.75585045074, u'Food & Exercise -- 9/28/2007 (yesterday)')
+['high', 'left', 'flight', 'flier', 'cocaine', 'busted']
+(15.397145362135639, u'HIGH FLIER Flight attendant who left cocaine at LAX busted')
+(0.045230456910325165, u'Unhappy hour: Beer, chips spill on highway after crash - Doughnut stashed with Xanax delivered to New Jersey high school')
+(1.8803028023936412e-06, u'Supreme Court divided on ObamaCare contraception mandate')
 
-['fats', 'quot', 'this', 'good', 'about', 'like']
-(14.9233786406, u'Good fats bad fats')
-(1.3775418859, u'Should we ban marathons?')
-(1.37194239805, u'Food & Exercise -- 10/3/2007')
+['transgender', 'signs', 'rule', 'overriding', 'north', 'discrimination']
+(17.037581555265227, u'North Carolina gov signs law overriding Charlotte anti-transgender discrimination rule')
+(8.2778127887195197e-06, u'FOX NEWS POLL  Cruz gains on Trump; Clinton up by double digits')
+(2.7815925419084948e-07, u"Hunker in their bunker: Maine couple selling preppers' paradise")
 
-['quot', 'they', 'money', 'want', 'very', 'best']
-(6.1620884463, u'More about the Chicago marathon')
-(5.58276496802, u'LOUIE + LINESMAKER = $$$$')
-(4.04959173123, u'High or low fat food? Easy trick for figuring it out')
+['weeks', 'warned', 'tragic', 'security', 'reportedly', 'holes']
+(19.55544693091251, u'TRAGIC ERRORS: EU reportedly warned Belgium about security holes weeks before Brussels bomb attacks')
+(8.2130467540012788e-08, u"Hunker in their bunker: Maine couple selling preppers' paradise")
+(5.9120200230920465e-08, u'FOX NEWS POLL  Cruz gains on Trump; Clinton up by double digits')
 
-['that', 'much', 'does', 'exercise', 'this', 'morning']
-(7.73926153154, u'Food & Exercise -- 10/7/2007')
-(5.96451663382, u'< 1g, etc.')
-(3.81276353396, u"why I'm succeeding, finally, with my fitness")
+['indonesian', 'trader', 'tiger', 'sumatran', 'sighted', 'rhino']
+(17.724085145716806, u'Rare Sumatran rhino sighted in Indonesian Borneo - Indonesian police arrest alleged tiger poacher and trader')
+(0.012991593038174598, u'Alabama gov admits making inappropriate remarks to staffer - Alleged sex abuse victim may testify at Dennis Hastert sentencing')
+(4.4267963811023335e-08, u'FOX NEWS POLL  Cruz gains on Trump; Clinton up by double digits')
 
-['with', 'your', 'weight', 'have', 'control', 'about']
-(6.78756986407, u'Control ur Weight')
-(5.54567450388, u'Flu-Busting Chicken Soup')
-(5.21079777525, u'Weight Loss Tips')
+['veterans', 'video', 'tips', 'benefits', 'scam', 'hack']
+(18.755789443565174, u"Veterans Benefits Administration chief suspended in relocation scam - VIDEO: VA offers veterans tips on how to 'hack' the system")
+(0.48663588327323587, u"Virginia students disciplined for 'blackface' video")
+(0.0060546496872294249, u'RAW VIDEO: Obama does the tango in Argentina - Obama, new Argentine leader work to break from past tensions')
 
-['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-(5.58477112035, u'Food and Workout Log 9.27.08')
-(5.48488799917, u'Food and Workout Log 10.3.07')
-(5.10395750879, u'Food and Workout Log 10.10.07')
+['dies', 'player', 'white', 'star', 'shadow', 'howard']
+(20.318964642730361, u"Hall of Fame baseball player, broadcaster Joe Garagiola dies at 90 - 'White Shadow', '1776' star Ken Howard dies at 71")
+(0.0060192398682172672, u'Massachusetts college basketball player overcomes paralysis to walk again')
+(5.0424491636756836e-08, u'FOX NEWS POLL  Cruz gains on Trump; Clinton up by double digits')
+
+['down', 'tore', 'homeowners', 'home', 'firm', 'error']
+(15.254262989364051, u'Homeowners claim demo firm tore down home in error')
+(8.0867939095548351, u'Man in Seattle tree comes down, ending 24-hour standoff')
+(0.041846732381428171, u'Storm shuts down Denver airport, could hit Midwest with more than a foot of snow - FOX NEWS WEATHER CENTER')
+
+['giffords', 'lawsuit', 'jared', 'loughner', 'reported', 'hoax']
+(17.35007421511045, u'Reported $25M lawsuit by Jared Loughner against Gabrielle Giffords could be hoax')
+(0.006195433463201303, u'Storm shuts down Denver airport, could hit Midwest with more than a foot of snow - FOX NEWS WEATHER CENTER')
+(0.00031820346856145263, u"Hunker in their bunker: Maine couple selling preppers' paradise")
+
+['officials', 'have', 'americans', 'murdered', 'kill', 'gitmo']
+(13.247347253584103, u'FREED TO KILL Officials: Gitmo detainees have murdered Americans')
+(9.548147682357655, u'Officials say Guantanamo transfers have killed Americans')
+(1.5983359170446801e-07, u"Hunker in their bunker: Maine couple selling preppers' paradise")
+
+['overcomes', 'again', 'walk', 'paralysis', 'massachusetts', 'college']
+(15.704210728536919, u'Massachusetts college basketball player overcomes paralysis to walk again')
+(1.6954804056086794e-06, u"Hunker in their bunker: Maine couple selling preppers' paradise")
+(9.8789377413740777e-08, u'Supreme Court divided on ObamaCare contraception mandate')
+
+['obama', 'video', 'break', 'past', 'does', 'argentina']
+(17.6716663375487, u'RAW VIDEO: Obama does the tango in Argentina - Obama, new Argentine leader work to break from past tensions')
+(0.45831840421328457, u"Virginia students disciplined for 'blackface' video")
+(0.043888144043010835, u'DOJ to announce charges against several Iranians in 2013 hacking of New York dam - Obama administration engaged in secret talks to pay Iran nearly $2 billion')
+
+['beer', 'hour', 'with', 'doughnut', 'delivered', 'xanax']
+(19.702135470625709, u'Unhappy hour: Beer, chips spill on highway after crash - Doughnut stashed with Xanax delivered to New Jersey high school')
+(1.3921248277198823, u'New beer for Budweiser')
+(1.1852981831351179, u'Gal: Men obsessed with breasts')
+
+['secret', 'administration', 'york', 'several', 'nearly', 'iranians']
+(21.249085344432867, u'DOJ to announce charges against several Iranians in 2013 hacking of New York dam - Obama administration engaged in secret talks to pay Iran nearly $2 billion')
+(1.6262221465413571, u"'NCIS' drops BIG secret?")
+(0.021462401017410607, u'RAW VIDEO: Obama does the tango in Argentina - Obama, new Argentine leader work to break from past tensions')
+
+['video', 'your', 'would', 'murderer', 'forgive', 'child']
+(10.272998730376266, u"VIDEO: Would you forgive your child's murderer?")
+(10.272994247368123, u'VIDEO: Will a drone deliver your pizza?')
+(4.9503705547290737, u"Virginia students disciplined for 'blackface' video")
+
+['tugboat', 'navy', 'mystery', 'maritime', 'lost', 'coast']
+(17.445872948089356, u'MARITIME MYSTERY Navy tugboat lost in 1921 found off California coast')
+(0.023225180832847706, u"Debris found in Mozambique 'highly likely' from MH370, Australia says")
+(2.7932119769822121e-07, u"Hunker in their bunker: Maine couple selling preppers' paradise")
+
+['alabama', 'sentencing', 'admits', 'dennis', 'abuse', 'staffer']
+(18.731894195404657, u'Alabama gov admits making inappropriate remarks to staffer - Alleged sex abuse victim may testify at Dennis Hastert sentencing')
+(0.00074503159694428204, u'Rare Sumatran rhino sighted in Indonesian Borneo - Indonesian police arrest alleged tiger poacher and trader')
+(7.8669427175579053e-08, u"Hunker in their bunker: Maine couple selling preppers' paradise")
 
